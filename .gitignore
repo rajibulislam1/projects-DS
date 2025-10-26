@@ -1,0 +1,126 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Byte-compiled / optimized / DLL files
+*.pyo
+*.pyd
+*.dll
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+*.db-journal
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ========================
+# Virtual Environments
+# ========================
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+DS/
+
+# ========================
+# Jupyter Notebooks
+# ========================
+.ipynb_checkpoints/
+jupyter_cache/
+*.nbconvert.ipynb
+
+# ========================
+# Data & Models
+# ========================
+data/
+datasets/
+*.csv
+*.tsv
+*.dat
+*.json
+*.yaml
+*.yml
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npz
+*.npy
+*.model
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# ========================
+# IDEs and Editors
+# ========================
+.vscode/
+.idea/
+.spyproject/
+.ropeproject/
+__pycache__/
+
+# ========================
+# OS-specific files
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ========================
+# Notebooks & Reports
+# ========================
+*.pdf
+*.docx
+*.pptx
+*.rtf
+*.md~
+
+# ========================
+# Miscellaneous
+# ========================
+*.bak
+*.tmp
+*.swp
+*.log
+*.out
+*.err
